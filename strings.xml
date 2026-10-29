@@ -1,0 +1,4 @@
+<resources>
+    <!-- Alterar o nome do app na tela inicial do Android exige recompilar. -->
+    <string name="app_name">Jarvis OS</string>
+</resources>
